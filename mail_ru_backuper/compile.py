@@ -1,4 +1,4 @@
-# Компиляция:
-# 1. Установка: pip install -U pyinstaller
-# 2. Скомпилировать: pyinstaller --onefile Backuper.py
-# 3. Готово! Файл находится в папке dist
+п»ї# РљРѕРјРїРёР»СЏС†РёСЏ:
+# 1. РЈСЃС‚Р°РЅРѕРІРєР°: pip install -U pyinstaller
+# 2. РЎРєРѕРјРїРёР»РёСЂРѕРІР°С‚СЊ: pyinstaller --onefile Backuper.py
+# 3. Р“РѕС‚РѕРІРѕ! Р¤Р°Р№Р» РЅР°С…РѕРґРёС‚СЃСЏ РІ РїР°РїРєРµ dist
